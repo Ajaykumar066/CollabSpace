@@ -1,5 +1,5 @@
 const Channel = require('../models/Channel.js');
-const users = require('../controllers/users.controller.js');
+const users = require('./users.controller.js');
 
 // create channel
 exports.create = (req, res) => {
