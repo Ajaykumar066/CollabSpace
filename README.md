@@ -1,6 +1,4 @@
-# SOEN341-project
-
-[![Build Status](https://travis-ci.com/gpnn/slack-clone.svg?branch=master)](https://travis-ci.com/gpnn/slack-clone)
+# CollabSpace
 
 ## Description
 
